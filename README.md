@@ -28,8 +28,10 @@ flutterを理解してフロントエンドを開発したい
 * 
 
 #### フレームワーク・ライブラリ・モジュール
-* 
-* 
+* FastAPI
+* BeautifulSoup4
+* Flutter
+* MySQL
 
 #### デバイス
 * android
