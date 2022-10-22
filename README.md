@@ -32,19 +32,17 @@ URLを登録するとウィジット上で更新をお知らせしてくれま�
 * フロントエンド
   * Flutter
 * バックエンド
-  * Python
+  * Python on Docker
     * FastAPI
     * BeautifulSoup4
     * feedparser
   * MySQL on Docker
-  * 本当はPython側のAPIサーバーもDockerに  
-    したかったですが断念しました
 
 #### デバイス
 * フロントエンド
   * androidを想定
 * バックエンド
-  * docker composeとPython3.10を実行できる環境があればどこでも実行可能
+  * docker composeを実行できる環境があればどこでも実行可能
 
 ### 独自技術
 #### ハッカソンで開発した独自機能・技術
