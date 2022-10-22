@@ -32,7 +32,7 @@ URLを登録するとウィジット上で更新をお知らせしてくれま�
 * フロントエンド
   * Flutter
 * バックエンド
-　* Python
+  * Python
     * FastAPI
     * BeautifulSoup4
     * feedparser
